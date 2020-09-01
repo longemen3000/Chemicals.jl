@@ -3,6 +3,9 @@ uuid = "4abf17f3-5646-4579-aa1e-e1e9ebf23bb1"
 authors = ["longemen3000 <longemen3000@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+
 [compat]
 julia = "1.5"
 
